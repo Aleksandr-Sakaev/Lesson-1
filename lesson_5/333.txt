@@ -1,0 +1,4 @@
+Ivaniv 19000
+Petrov 30000
+Sidorov 15000
+Semenov 21000
